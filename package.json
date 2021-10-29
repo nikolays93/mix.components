@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "dev": "npx mix",
+    "prod": "npx run mix && npx mix --production"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.34",
+    "resolve-url-loader": "4.0.0",
+    "sass": "^1.43.4",
+    "sass-loader": "12.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
